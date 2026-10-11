@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laptop Keyboard</string>
+    <string name="keyboard_name">Laptop Keyboard</string>
+    <string name="subtype_en_US">English (US)</string>
+    <string name="enable_keyboard">Enable Laptop Keyboard</string>
+    <string name="select_keyboard">Select Laptop Keyboard</string>
+    <string name="instructions">1. Tap \"Enable Laptop Keyboard\"\n2. Turn on the switch for \"Laptop Keyboard\"\n3. Tap \"Select Laptop Keyboard\" and choose it\n4. Open any app and start typing</string>
+</resources>
